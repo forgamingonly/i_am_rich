@@ -4,9 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. 
-In this project, diamond is shown at home page. This app can only be bought by rich people.
-Good for beginners.
+This project excites the new user about  Flutter Apllication and really good for beginners.
+In this project, diamond is shown at home page ,which symbolize expensive nature .Thus,  app can only be bought by rich people.
+
 
 A few resources to get you started if this is your first Flutter project:
 
